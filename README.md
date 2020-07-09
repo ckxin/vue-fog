@@ -1,6 +1,6 @@
-# learn-vue
+# vue-fog
 
-> A Vue.js project
+> 一个基于Vue+Express+MongoDB的图像评分系统
 
 ## Build Setup
 
